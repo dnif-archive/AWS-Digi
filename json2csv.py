@@ -41,4 +41,4 @@ for row in rows:
 
 #saving data in csv format
 ThreatData = pd.DataFrame( data )
-ThreatData.to_csv("abusefeed.csv")
+ThreatData.to_csv("abusefeed.csv", mode='a')
