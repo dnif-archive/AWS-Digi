@@ -6,7 +6,7 @@ Our main objective is to identify a dynamic dataset suitable for analysis throug
 
 # Table Of Content
 
-* [Introduction to DNIF] (#Introduction to DNIF)
+* [Introduction to DNIF] (https://github.com/dnif/AWS-Digi/blob/master/README.md#introduction-to-dnif)
 * [DNIF Installation]()
     * [Tools used for project]()
     * [Pre-Requisite]()
