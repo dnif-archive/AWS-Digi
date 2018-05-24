@@ -8,17 +8,17 @@ Our main objective is to identify a dynamic dataset suitable for analysis throug
 
 * <a href="https://github.com/dnif/AWS-Digi/blob/master/README.md#introduction-to-dnif"> Introduction to DNIF</a>
 * <a href="https://github.com/dnif/AWS-Digi/blob/master/README.md#dnif-installation"> DNIF Installation</a>
-    * [Tools used for project]()
+    * <a href="https://github.com/dnif/AWS-Digi/blob/master/README.md#tools"> Tools used for project</a>
     * <a href="https://github.com/dnif/AWS-Digi/blob/master/README.md#pre-requisites"> Pre-Requisite</a>
     * <a href="https://github.com/dnif/AWS-Digi/blob/master/README.md#docker-installation"> Docker Installation</a>
     * <a href="https://github.com/dnif/AWS-Digi/blob/master/README.md#configuring-dnif"> DNIF configuration</a>
     * <a href="https://github.com/dnif/AWS-Digi/blob/master/README.md#web-console"> Web Console</a>
 * <a href="https://github.com/dnif/AWS-Digi/blob/master/README.md#webiron"> About Webiron</a>
-    * [Key Metrics]()
-    * [Interacting with DNIF]()
-        * [DNIF interaction through Postman]()
-        * [DNIF interaction through HTTP API]()
-* [Analysis and Dashboard]()
+    * <a href="https://github.com/dnif/AWS-Digi/blob/master/README.md#key-metrics"> Key Metrics</a>
+    * <a href="https://github.com/dnif/AWS-Digi/blob/master/README.md#interacting-with-dnif"> Interacting with DNIF </a>
+	* <a href="https://github.com/dnif/AWS-Digi/blob/master/README.md#dnif-interaction-through-postman"> DNIF interaction through Postman </a>
+        * <a href="https://github.com/dnif/AWS-Digi/blob/master/README.md#dnif-interaction-through-http-api"> DNIF interaction through HTTP API </a>
+* <a href="https://github.com/dnif/AWS-Digi/blob/master/README.md#analysis-and-dashboard"> Analysis and Dashboard</a>
 
 
 # Introduction to DNIF
