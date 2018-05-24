@@ -6,8 +6,8 @@ Our main objective is to identify a dynamic dataset suitable for analysis throug
 
 # Table Of Content
 
-* [Introduction to DNIF] (https://github.com/dnif/AWS-Digi/blob/master/README.md#introduction-to-dnif)
-* [DNIF Installation]()
+* <a href="https://github.com/dnif/AWS-Digi/blob/master/README.md#introduction-to-dnif"> Introduction to DNIF</a>
+* <a href="https://github.com/dnif/AWS-Digi/blob/master/README.md#dnif-installation"> DNIF Installation</a>
     * [Tools used for project]()
     * [Pre-Requisite]()
     * [Docker Installation]()
