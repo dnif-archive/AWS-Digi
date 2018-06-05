@@ -161,7 +161,7 @@ Abuse e-mail feed contains a log of our abuse reports and status of the issue re
    </tr>
    <tr>
       <td>Log Entry Type</td>
-      <td>ontains the action. This is either, report sent, report opened, report or if the host has replied with a resolved statement.</td>
+      <td>Contains the action. This is either, report sent, report opened, report or if the host has replied with a resolved statement.</td>
    </tr>
    <tr>
       <td>Log Time</td>
